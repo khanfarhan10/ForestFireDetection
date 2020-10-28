@@ -1,5 +1,6 @@
 # Forest Fire Detection
 
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
 
 ```python
 Hello World ! 
