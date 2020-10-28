@@ -1,7 +1,11 @@
 # Forest Fire Detection
-
+<!--
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab">
-
+-->
+<!--
+https://colab.research.google.com/github/khanfarhan10/ForestFireDetection/blob/master/template/Sample_Submission.ipynb
+-->
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/khanfarhan10/ForestFireDetection/blob/master/template/Sample_Submission.ipynb)
 ```python
 Hello World ! 
 
